@@ -9,9 +9,11 @@ The Botanical Bliss logo was designed using Canva and reflects the following ele
 
 Two serum bottles 🧴🧴 are centered to represent the product itself.
 An eco-friendly green background 🌿 is used to symbolize the brand's focus on sustainability and nature.
+
 📁 Project Structure
 Logo: The logo design files are available in the logo/ folder.
 Step-by-Step Progress: Updates on branding and marketing strategies will be added as the project evolves.
+
 🚀 Future Steps
 Branding: Finalizing the brand identity and messaging.
 Marketing Strategy: Developing a complete digital marketing plan, including social media, SEO, and other channels.
