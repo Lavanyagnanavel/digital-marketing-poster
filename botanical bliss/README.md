@@ -6,10 +6,10 @@ Botanical Bliss is an eco-friendly, all-natural hair serum that helps nourish an
 
 🎨 Logo Design
 The Botanical Bliss logo was designed using Canva and reflects the following elements:
-
-Two serum bottles 🧴🧴 are centered to represent the product itself.
-An eco-friendly green background 🌿 is used to symbolize the brand's focus on sustainability and nature.
-
+🎨The new Botanical Bliss logo features a stylized lady applying the hair serum, with drops falling gently onto her hair. This design incorporates white and green color theory:
+White: Symbolizes purity and the natural ingredients of the serum.
+Green: Represents the brand’s eco-friendly commitment and sustainability.
+ 
 📁 Project Structure
 Logo: The logo design files are available in the logo/ folder.
 Step-by-Step Progress: Updates on branding and marketing strategies will be added as the project evolves.
