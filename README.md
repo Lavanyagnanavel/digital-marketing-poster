@@ -1,21 +1,23 @@
+About the Project
+Botanical Bliss is a digital marketing project focused on promoting an eco-friendly hair serum brand. The aim is to enhance brand visibility and customer engagement using strategic marketing across multiple platforms.
+
+Key Highlights
+Website: A user-friendly platform showcasing product features and benefits.
+Social Media Calendar: A one-week planner for targeted social media campaigns.
+Marketing Strategies: SEO, Google Ads, content creation, and analytics-driven decisions.
+Creative Design: Engaging visuals and graphics designed with Canva and Photoshop.
+Website
+Explore the live website for Botanical Bliss here:
+Visit Botanical Bliss
+(https://botanicalbliss.webdhub.in/)
+
+Social Media Calendar
+The Social Media Calendar outlines a week-long content schedule tailored to platforms like Facebook, Instagram, LinkedIn, Twitter, YouTube, and Pinterest.
+
  
 
-📊 Digital Marketing Project
-This repository contains the work and progress related to my digital marketing project.
-It focuses on building a sustainable brand, creating a comprehensive marketing strategy, and promoting the product through various channels.
-
-📂 Repository Structure
-Logo: Design files located in the logo/ folder.
-Marketing Plan: Step-by-step marketing strategy can be found in the marketing_plan/ folder.
-Social Media Content: Visual content and copy for posts are in the social_media/ folder.
-SEO Strategy: Detailed SEO techniques and keyword research are stored in the seo/ folder.
-
-🛠️ Tools & Platforms
-Canva: Used for visual and logo design.
-Google Analytics: For tracking campaign performance and insights.
-SEO Tools: Utilized to optimize online visibility and website traffic.
-
-🚀 Project Focus
-Developing a strong brand identity and awareness.
-Implementing a social media and content marketing strategy.
-Optimizing the online presence using SEO techniques.
+Tools & Technologies Used
+Digital Marketing Tools: SEMrush, Google Analytics, Google Ads
+Design Tools: Photoshop, Canva
+Web Development Tools: WordPress
+Platforms: Facebook, Instagram, LinkedIn, Twitter, YouTube, Pinterest
